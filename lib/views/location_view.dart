@@ -34,7 +34,7 @@ class LocationView extends StatelessWidget {
                 ),
                 builder: (context) {
                   return DraggableScrollableSheet(
-                    initialChildSize: 0.7,
+                    initialChildSize: 0.5,
                     minChildSize: 0.3,
                     maxChildSize: 0.95,
                     expand: false,

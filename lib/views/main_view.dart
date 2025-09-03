@@ -127,9 +127,3 @@ final List<Map<String, String>> steps = [
   },
   {"title": "مراجعه الاعلان ونشر"},
 ];
-
-
-
-
-
-
